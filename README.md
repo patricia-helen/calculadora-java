@@ -22,7 +22,10 @@ src/
 javac src/*.java
 java -cp src Calculadora
 
-👩‍💻 Autora
+##👩‍💻 Autora
 
-Patricia Helen - Estudante de Java Back-End
-Projeto desenvolvido em Fevereiro de 2026
+**Patricia Helen** - Estudante de Java Back-End
+
+---
+*Projeto desenvolvido em Fevereiro de 2026*
+
